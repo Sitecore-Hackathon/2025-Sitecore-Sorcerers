@@ -39,4 +39,7 @@ Install Sitecore Powershell Extension (SPE) module in your local sitecore by dow
 
 Install this [Sitecore package](https://github.com/Sitecore-Hackathon/2025-Sitecore-Sorcerers/blob/main/Sitecore-Packages/ContentCleanUpAndOptimization.zip) to enable Content CleanUp tool in your Sitecore
 
+After installing above package you should be able to see a new button under Home Ribbon with Name: Content Clean up
+![Content CleanUp Ribbon](docs/images/ContentCleanup-Sitecore-Ribbon.png?raw=true "Content CleanUp Ribbon")
+
 ##  Usage instructions
