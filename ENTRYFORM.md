@@ -13,8 +13,11 @@ Many Sitecore implementations accumulate outdated, redundant, or underperforming
 This module helps content authors, marketers, and administrators manage their Sitecore content efficiently by:
 
 Detecting duplicate, outdated, and low-engagement content.
+
 Providing AI-driven recommendations for content updates, merging, or removal.
+
 Offering a CLI tool for bulk actions and automation.
+
 
 
 ## Video link
