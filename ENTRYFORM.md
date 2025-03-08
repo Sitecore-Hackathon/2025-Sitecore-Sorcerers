@@ -24,8 +24,11 @@ Offering a CLI tool for bulk actions and automation.
 
 ## Pre-requisites and Dependencies
 -> Sitecore Powershell extension (SPE) installed.
+
 -> API access to AI services like: Chat GPT/ Open AI API / Azure cognitive services.
+
 -> Permissions to access Sitecore content/items via Sitecore Powershell.
+
 
 ## Installation instructions
 Follow the instructions in this document to install Sitecore 10.4 locally.
