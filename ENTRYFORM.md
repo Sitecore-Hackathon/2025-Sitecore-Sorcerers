@@ -37,4 +37,6 @@ Follow the instructions in this [document](https://github.com/Sitecore-Hackathon
 ### Configuration
 Install Sitecore Powershell Extension (SPE) module in your local sitecore by downloading it from [here](https://scdp.blob.core.windows.net/downloads/Sitecore%20Experience%20Accelerator/10x/Sitecore%20Experience%20Accelerator%201040/Sitecore.PowerShell.Extensions-7.0-IAR.zip)
 
+Install this [Sitecore package](https://github.com/Sitecore-Hackathon/2025-Sitecore-Sorcerers/blob/main/Sitecore-Packages/ContentCleanUpAndOptimization.zip) to enable Content CleanUp tool in your Sitecore
+
 ##  Usage instructions
