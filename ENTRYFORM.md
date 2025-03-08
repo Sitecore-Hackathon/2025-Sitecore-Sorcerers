@@ -1,27 +1,21 @@
 # Hackathon Submission Entry form
 
-> __Important__  
-> 
-> Copy and paste the content of this file into README.md or face automatic __disqualification__  
-> All headlines and subheadlines shall be retained if not noted otherwise.  
-> Fill in text in each section as instructed and then delete the existing text, including this blockquote.
-
-You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
-
 ## Team name
-⟹ Write the name of your Hackathon team here
-
+Sitecore Sorcerers
 ## Category
-⟹ Write the name of the selected category
-
+Sitecore AI Content cleanup and optimization.
 ## Description
-⟹ Write a clear description of your hackathon entry.  
 
-  - Module Purpose
-  - What problem was solved (if any)
-    - How does this module solve it
+### Problem:-
+Many Sitecore implementations accumulate outdated, redundant, or underperforming content over time. This negatively impacts SEO, site performance, and content governance. Manually auditing and cleaning up content is time-consuming and inefficient.
 
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
+### Solution:-
+This module helps content authors, marketers, and administrators manage their Sitecore content efficiently by:
+
+Detecting duplicate, outdated, and low-engagement content.
+Providing AI-driven recommendations for content updates, merging, or removal.
+Offering a CLI tool for bulk actions and automation.
+
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
@@ -29,35 +23,12 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 ⟹ [Replace this Video link](#video-link)
 
 ## Pre-requisites and Dependencies
-
-⟹ Does your module rely on other Sitecore modules or frameworks?
-
-- List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
-
-_Remove this subsection if your entry does not have any prerequisites other than Sitecore_
+-> Sitecore Powershell extension (SPE) installed.
+-> API access to AI services like: Chat GPT/ Open AI API / Azure cognitive services.
+-> Permissions to access Sitecore content/items via Sitecore Powershell.
 
 ## Installation instructions
-⟹ Write a short clear step-wise instruction on how to install your module.  
-
-> _A simple well-described installation process is required to win the Hackathon._  
-> Feel free to use any of the following tools/formats as part of the installation:
-> - Sitecore Package files
-> - Docker image builds
-> - Sitecore CLI
-> - msbuild
-> - npm / yarn
-> 
-> _Do not use_
-> - TDS
-> - Unicorn
- 
-for example:
-
-1. Use the Sitecore Installation wizard to install the [package](#link-to-package)
-2. ...
-3. profit
+Follow the instructions in this document to install Sitecore 10.4 locally.
 
 ### Configuration
 ⟹ If there are any custom configuration that has to be set manually then remember to add all details here.
